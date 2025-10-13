@@ -1,1 +1,1 @@
-# Bank_Management_Syatem
+# Bank_Management_System
