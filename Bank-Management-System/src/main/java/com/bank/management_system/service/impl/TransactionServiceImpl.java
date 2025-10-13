@@ -65,7 +65,7 @@ public class TransactionServiceImpl implements TransactionService {
         Account account = accountRepository.findByAccountNo(accountNo)
                 .orElseThrow(()->new RuntimeException("Account not found"));
 
-        account.setBalance(account.getBalance());
+        account.setBalance(account.getBalance()+amount.doubleValue());
         accountRepository.save(account);
 
         Transaction transaction = new Transaction();
@@ -154,7 +154,7 @@ public class TransactionServiceImpl implements TransactionService {
             throw new RuntimeException("Insufficient balance");
         }
 
-        account.setBalance(account.getBalance()+amount.doubleValue());
+        account.setBalance(account.getBalance()-amount.doubleValue());
         accountRepository.save(account);
 
         Transaction transaction = new Transaction();
