@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
+<<<<<<< Updated upstream
     <list default="true" id="9505bfa7-40e1-4a9e-888f-e3d564bd4227" name="Changes" comment="Initial commit" />
+=======
+    <list default="true" id="9505bfa7-40e1-4a9e-888f-e3d564bd4227" name="Changes" comment="Commit" />
+>>>>>>> Stashed changes
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -25,6 +29,7 @@
     </option>
   </component>
   <component name="Git.Settings">
+<<<<<<< Updated upstream
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
         <entry key="$PROJECT_DIR$" value="main" />
@@ -44,6 +49,16 @@
     &quot;accountId&quot;: &quot;8b15c9bd-3c4a-4e31-8635-07476fe712fd&quot;
   }
 }</component>
+=======
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/Bank-Management-System/Bank_Management_Syatem" />
+  </component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/dhanushbachu/Bank_Management_Syatem.git",
+    "accountId": "261973d7-3601-4f6c-a21b-108dc3708b45"
+  }
+}]]></component>
+>>>>>>> Stashed changes
   <component name="ProblemsViewState">
     <option name="selectedTabId" value="CurrentFile" />
   </component>
@@ -61,13 +76,21 @@
     "Application.com.bank.management_system.BankManagementSystemApplication.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+<<<<<<< Updated upstream
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "master",
+=======
+    "git-widget-placeholder": "main",
+>>>>>>> Stashed changes
     "last_opened_file_path": "C:/Users/hp/Downloads/Bank Management System",
     "project.structure.last.edited": "Project",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
+<<<<<<< Updated upstream
     "settings.editor.selected.configurable": "preferences.pluginManager"
+=======
+    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings"
+>>>>>>> Stashed changes
   }
 }]]></component>
   <component name="RecentsManager">
@@ -91,9 +114,14 @@
       </method>
     </configuration>
     <configuration name="com.bank.management_system.BankManagementSystemApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+<<<<<<< Updated upstream
       <option name="ALTERNATIVE_JRE_PATH" value="17" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
       <option name="MAIN_CLASS_NAME" value="com.bank.management_system.BankManagementSystemApplication" />
+=======
+      <option name="MAIN_CLASS_NAME" value="com.bank.management_system.BankManagementSystemApplication" />
+      <module name="Bank-Management-System" />
+>>>>>>> Stashed changes
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.bank.management_system.*" />
@@ -108,8 +136,11 @@
       <list>
         <item itemvalue="Application.com.bank.management_system.BankManagementSystemApplication" />
         <item itemvalue="Application.BankManagementSystemApplication" />
+<<<<<<< Updated upstream
         <item itemvalue="Application.com.bank.management_system.BankManagementSystemApplication" />
         <item itemvalue="Application.BankManagementSystemApplication" />
+=======
+>>>>>>> Stashed changes
       </list>
     </recent_temporary>
   </component>
@@ -129,6 +160,7 @@
       <option name="project" value="LOCAL" />
       <updated>1760360546980</updated>
     </task>
+<<<<<<< Updated upstream
     <task id="LOCAL-00002" summary="Commit">
       <option name="closed" value="true" />
       <created>1760362580383</created>
@@ -163,13 +195,24 @@
       </map>
     </option>
   </component>
+=======
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+>>>>>>> Stashed changes
   <component name="VcsManagerConfiguration">
     <ignored-roots>
       <path value="$PROJECT_DIR$/Bank-Management-System" />
     </ignored-roots>
+<<<<<<< Updated upstream
     <MESSAGE value="Initial commit" />
     <MESSAGE value="Commit" />
     <option name="LAST_COMMIT_MESSAGE" value="Commit" />
+=======
+    <MESSAGE value="Commit" />
+    <MESSAGE value="Initial commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Initial commit" />
+>>>>>>> Stashed changes
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
