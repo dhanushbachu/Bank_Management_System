@@ -16,6 +16,5 @@ public interface UserService{
     List<User> getAllActiveUsers();
     boolean usernameExists(String username);
     User changeUserStatus(Long userId, boolean active);
-
     UserDetails loadUserByUsername(String username);
 }
